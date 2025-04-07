@@ -99,8 +99,8 @@ MIT
 
 ## Connect with Us
 For collaboration, feedback, or demo requests:
-**Email:** wraith.dev@protonmail.com  
-**Twitter:** [@WraithStack](https://twitter.com/WraithStack)
+**Email:**  
+**Twitter:**  
 
 ---
 
