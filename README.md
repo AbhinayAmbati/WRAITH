@@ -65,7 +65,7 @@ curl -X POST http://localhost:8080/intent/greetuser \
 
 ## Project Structure
 ```
-/intents/           → .wi intent files
+/intents/           → .wi intent files (coming soon)
 /models/            → .wm model declarations (coming soon)
 /services/          → .ws backend logic services (coming soon)
 /config/            → app configs
