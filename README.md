@@ -25,16 +25,15 @@ WRAITH empowers developers to build scalable backend APIs using natural language
 
 ## Installation
 ```bash
-npm install -g wraith-cli
+npx create-wraith init my-app
 ```
 
 ---
 
 ## Getting Started
 ```bash
-wraith init myApp
 cd myApp
-wraith dev
+npm i
 ```
 
 This creates a new project with sample intent structure and launches the dev server.
